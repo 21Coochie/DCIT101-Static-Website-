@@ -257,5 +257,5 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: #0000FF;
+    color: orange;
 }
